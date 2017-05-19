@@ -1,0 +1,10 @@
+name: Vanish
+version: 1.0
+description: Vanish's a staff  member or player from being visible
+author: Vehqzi
+main: me.vehqzi.vanish.Main
+commands:
+  vanish:
+    aliases: [v]
+  vanishver:
+      description: Checks the Current Developer of the Vanish Plugin!
